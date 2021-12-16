@@ -40,4 +40,4 @@ curl -o myimagename.png https://documentwrite.dev/wp-content/uploads/2021/08/doc
 curl -O https://documentwrite.dev/wp-content/uploads/2021/08/document-write-logo.png
 ```
 
-Running the first command in your terminal will download the image with its as ***myimagename.png***. The second command will download with its name as ***document-write-logo.png*** which is the original file.
+Running the first command in your terminal will download the image with its as ***myimagename.png***. The second command will download with its name as ***document-write-logo.png*** which is the original file's name.
